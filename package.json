@@ -10,35 +10,27 @@
     "pages:build": "npx @cloudflare/next-on-pages"
   },
   "dependencies": {
-    "@heroicons/react": "^2.2.0",
-    "@radix-ui/react-slot": "^1.1.0",
     "@tabler/icons-react": "^3.19.0",
-    "call-of-code": "file:",
-    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "framer-motion": "^11.18.2",
     "lucide-react": "^0.453.0",
     "mini-svg-data-uri": "^1.4.4",
     "next": "15.4.8",
-    "next-themes": "^0.3.0",
     "pixel-retroui": "^2.1.0",
     "react": "^18",
     "react-activity-calendar": "^3.0.4",
     "react-dom": "^18",
-    "react-icon-cloud": "^4.1.4",
     "react-icons": "^5.4.0",
     "simple-icons": "^16.4.0",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "^1.13.6",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^9.39.2",
     "eslint-config-next": "^16.1.2",
-    "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
